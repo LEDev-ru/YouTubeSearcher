@@ -1,4 +1,4 @@
-# YouTubeSearcher
+# YouTube Searcher
 EN: YouTube searcher powered SerpApi (https://serpapi.com/) by LEDev (https://ledev.ru/)
 
 RU: Поиск по YouTube, работающий с помощью SerpApi (https://serpapi.com/), разработанный LEDev (https://ledev.ru/)
